@@ -1,0 +1,20 @@
+<html>
+    <head>
+          <title>My Site</title>
+        <link href = "style.css" rel = "stylessheet" type = "text/css" /> 
+   
+            p
+            {
+            	font-family: arial;
+            	font-size: 50pt;
+
+            } 
+
+        </style>
+    </head>
+    <body>
+        
+        <p>Hello World, this text is styled!</p>   
+    
+    </body>    
+</html>																					
